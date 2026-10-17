@@ -519,6 +519,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - [yamcp](https://github.com/hamidra/yamcp) - A Model Context Workspace Manager. Oraganize your MCP servers in local workspaces (coding, design, research, ...), scan, monitor, and integrate each workspace with AI apps via a unified CLI.
 - [ToolHive](https://github.com/StacklokLabs/toolhive) - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization.
 
+- [mcpreflight](https://github.com/xka0085-byte/mcpreflight) - Read-only preflight checker for MCP servers and x402 payment endpoints. Re-scans every remote endpoint in the official MCP registry weekly and publishes a public report page per server, plus a drop-in CI check that gates the handshake on every push.
+
 <br />
 
 Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
